@@ -30,20 +30,6 @@ public class EarthAnimal extends LivingBeings implements EarthBeing {
         System.out.println("Kitten died");
     }
 
-    @Override
-    public void fly() {
-
-    }
-
-    @Override
-    public void changeDimensionChange() {
-
-    }
-
-    @Override
-    public void sing() {
-
-    }
 
     @Override
     public void walk() {
